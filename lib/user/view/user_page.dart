@@ -138,7 +138,7 @@ class _UserPageState extends State<UserPage> {
                                   ),
                                   Expanded(
                                     child: Text(
-                                      "User Details ${user.id}",
+                                      "User Details",
                                       textAlign: TextAlign.center,
                                       style: const TextStyle(
                                         color: Colors.white,
